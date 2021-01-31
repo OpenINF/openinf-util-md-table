@@ -1,6 +1,6 @@
 {
   "name": "@openinf/util-md-table",
-  "version": "1.0.0-alpha",
+  "version": "1.0.0-alpha.2",
   "description": "",
   "main": "./index.js",
   "types": "./index.d.ts",
