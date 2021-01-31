@@ -9,6 +9,6 @@
  * @param {string} mdTbl A markdown table as a string.
  * @param {Function?} cellTransform A function run on contents of each cell.
  * @param {Function?} attribCellTransform A transform only for attribute cells.
- * @returns {Object}
+ * @returns {Array<Object>}
  */
 export declare function mdTbl2json(mdTbl: string, cellTransform: (Function | undefined), attribCellTransform: (Function | undefined)): string[];
