@@ -14,8 +14,8 @@
     "type": "git",
     "url": "git+https://github.com/openinf/util-md-table.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "The OpenINF Authors",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/openinf/util-md-table/issues"
   },
