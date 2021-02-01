@@ -10,8 +10,8 @@ Object.defineProperty(exports, "__esModule", { value: true });
 exports.mdTbl2json = void 0;
 /**
  * @param {string} mdTbl A markdown table as a string.
- * @param {Function?} cellTransform A function run on contents of each cell.
- * @param {Function?} attribCellTransform A transform only for attribute cells.
+ * @param {!(Function | undefined)} cellTransform A function run on contents of each cell.
+ * @param {!(Function | undefined)} attribCellTransform A transform only for attribute cells.
  * @returns {Array<Object>}
  */
 function mdTbl2json(mdTbl, cellTransform, attribCellTransform) {

@@ -67,8 +67,8 @@ console.log(sampleTableObject);
 | Param | Type | Description |
 | --- | --- | --- |
 | mdTbl | <code>string</code> | A markdown table as a string. |
-| cellTransform | <code>function</code> | A function run on contents of each cell. |
-| attribCellTransform | <code>function</code> | A transform only for attribute cells. |
+| cellTransform | <code>function</code> \| <code>undefined</code> | A function run on contents of each cell. |
+| attribCellTransform | <code>function</code> \| <code>undefined</code> | A transform only for attribute cells. |
 
 
 <br />
