@@ -11,4 +11,4 @@
  * @param {Function?} attribCellTransform A transform only for attribute cells.
  * @returns {Array<Object>}
  */
-export declare function mdTbl2json(mdTbl: string, cellTransform: (Function | undefined), attribCellTransform: (Function | undefined)): Object[];
+export declare function mdTbl2json(mdTbl: string, cellTransform: (Function | undefined), attribCellTransform: (Function | undefined)): unknown[];
