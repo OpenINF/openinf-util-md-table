@@ -13,7 +13,7 @@
  * @returns {Array<Object>}
  */
 export function mdTbl2json(mdTbl:string, cellTransform:(Function | undefined),
-  attribCellTransform:(Function | undefined)) {
+  attribCellTransform:(Function | undefined)):Object[] {
   const allRows = mdTbl
     .split('\n')
     .map((row) => row.trim())
