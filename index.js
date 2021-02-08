@@ -1,11 +1,5 @@
 "use strict";
-/**
- * @license
- * Copyright OpenINF All Rights Reserved.
- *
- * Use of this source code is governed by an MIT-style license that can be
- * found in the LICENSE file at https://open.inf.is/license
- */
+// Copyright 2021 The OpenINF Authors. All rights reserved. MIT license.
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.mdTbl2json = void 0;
 /**

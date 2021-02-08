@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://www.npmjs.com/package/@openinf/util-md-table"><img src="https://img.shields.io/npm/v/@openinf/util-md-table?style=plastic" alt="view on npm" /></a>
   <img src="https://img.shields.io/github/languages/top/openinf/util-md-table?color=blue&style=plastic" />
-  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/github/license/openinf/openinf.github.io?color=blue&style=plastic" alt="License: MIT" /></a>
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/github/license/openinf/util-md-table?color=blue&style=plastic" alt="License: MIT" /></a>
 </p>
 
 <br />
@@ -62,7 +62,7 @@ console.log(sampleTableObject);
 <a name="mdTbl2json"></a>
 
 ## mdTbl2json(mdTbl, cellTransform, attribCellTransform) ⇒ <code>Array.&lt;Object&gt;</code>
-**Kind**: global function  
+**Kind**: global function
 
 | Param | Type | Description |
 | --- | --- | --- |
@@ -77,4 +77,5 @@ console.log(sampleTableObject);
 
 <br />
 
-&copy; OpenINF
+<p align="center">&copy; The OpenINF Authors</center></p>
+<p align="center"><img height="32px" width="32px" src="https://raw.githubusercontent.com/openinf/openinf.github.io/live/logo.svg" /></p>
