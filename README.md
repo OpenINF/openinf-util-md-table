@@ -34,10 +34,6 @@ npm install @openinf/util-md-table
 
 ## Usage
 
-To get started using the class provided by `@openinf/util-md-table`, all
-that needs to be done is either import/require (depending on the module format)
-the default export of the module or destructure individual named exports.
-
 ```ts
 import { mdTable2json } from '@openinf/util-md-table';
 
@@ -53,6 +49,13 @@ const sampleTableObject = mdTbl2json(sampleTable, (v) => v.toLowerCase());
 console.log(sampleTableObject);
 ```
 
+```console
+[
+  { col1: 'one', col2: 'two', col3: 'three', col4: 'four' },
+  { col1: 'fee', col2: 'fie', col3: 'foe', col4: 'fum' }
+]
+```
+
 <br />
 
 ---
@@ -62,7 +65,7 @@ console.log(sampleTableObject);
 <a name="mdTbl2json"></a>
 
 ## mdTbl2json(mdTbl, cellTransform, attribCellTransform) ⇒ <code>Array.&lt;Object&gt;</code>
-**Kind**: global function
+**Kind**: global function  
 
 | Param | Type | Description |
 | --- | --- | --- |
