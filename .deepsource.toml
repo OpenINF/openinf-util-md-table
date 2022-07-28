@@ -1,0 +1,25 @@
+version = 1
+
+test_patterns = ["index.spec.js"]
+
+exclude_patterns = ["index.js"]
+
+[[analyzers]]
+name = "test-coverage"
+enabled = true
+
+[[analyzers]]
+name = "shell"
+enabled = true
+
+[[analyzers]]
+name = "secrets"
+enabled = true
+
+[[analyzers]]
+name = "javascript"
+enabled = true
+
+[[transformers]]
+name = "prettier"
+enabled = true
