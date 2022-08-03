@@ -35,14 +35,14 @@ npm install @openinf/util-md-table
 ## Usage
 
 ```ts
-import { mdTable2json } from '@openinf/util-md-table';
+import { mdTable2json } from "@openinf/util-md-table";
 
 const sampleTable = [
-'| Col1  | Col2  | Col3  | Col4  |',
-'|:-----:|:-----:|:-----:|:-----:|',
-'| one   | two   | three | four  |',
-'| Fee   | Fie   | Foe   | Fum   |',
-].join('\n');
+  "| Col1  | Col2  | Col3  | Col4  |",
+  "|:-----:|:-----:|:-----:|:-----:|",
+  "| one   | two   | three | four  |",
+  "| Fee   | Fie   | Foe   | Fum   |",
+].join("\n");
 
 const sampleTableObject = mdTbl2json(sampleTable, (v) => v.toLowerCase());
 
@@ -65,14 +65,14 @@ console.log(sampleTableObject);
 <a name="mdTbl2json"></a>
 
 ## mdTbl2json(mdTbl, cellTransform, attribCellTransform) ⇒ <code>Array.&lt;Object&gt;</code>
-**Kind**: global function  
 
-| Param | Type | Description |
-| --- | --- | --- |
-| mdTbl | <code>string</code> | A markdown table as a string. |
-| cellTransform | <code>function</code> \| <code>undefined</code> | A function run on contents of each cell. |
-| attribCellTransform | <code>function</code> \| <code>undefined</code> | A transform only for attribute cells. |
+**Kind**: global function
 
+| Param               | Type                                            | Description                              |
+| ------------------- | ----------------------------------------------- | ---------------------------------------- |
+| mdTbl               | <code>string</code>                             | A markdown table as a string.            |
+| cellTransform       | <code>function</code> \| <code>undefined</code> | A function run on contents of each cell. |
+| attribCellTransform | <code>function</code> \| <code>undefined</code> | A transform only for attribute cells.    |
 
 <br />
 
