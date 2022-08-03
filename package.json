@@ -10,10 +10,7 @@
     "compile-doc": "jsdoc2md --template README.hbs --files index.js > ./README.md",
     "test": "node index.spec.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/openinf/util-md-table.git"
-  },
+  "repository": "openinf/util-md-table",
   "keywords": [
     "markdown",
     "json",
@@ -22,9 +19,7 @@
   ],
   "author": "The OpenINF Authors",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/openinf/util-md-table/issues"
-  },
+  "bugs": "https://github.com/openinf/util-md-table/issues",
   "homepage": "https://github.com/openinf/util-md-table#readme",
   "devDependencies": {
     "@types/node": "18.0.3",
