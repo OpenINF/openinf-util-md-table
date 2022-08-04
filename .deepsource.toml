@@ -6,7 +6,7 @@ exclude_patterns = ["index.js"]
 
 [[analyzers]]
 name = "test-coverage"
-enabled = true
+enabled = false
 
 [[analyzers]]
 name = "shell"
