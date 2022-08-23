@@ -4,6 +4,7 @@
   "description": "Common Markdown table-related utilities",
   "main": "./index.js",
   "types": "./index.d.ts",
+  "engines": { "node": ">=16.13.0" },
   "scripts": {
     "prepare": "npm run compile-src && npm run compile-doc",
     "compile-src": "tsc --project ./",
