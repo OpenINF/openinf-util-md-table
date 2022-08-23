@@ -1,10 +1,8 @@
 <sup><p align="right"><a href="https://www.npmjs.com/package/@openinf/util-md-table"><img src="https://img.shields.io/npm/v/@openinf/util-md-table?style=plastic" alt="view on npm" /></a>
-  <img src="https://img.shields.io/github/languages/top/openinf/util-md-table?color=blue&style=plastic" />
-  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/github/license/openinf/util-md-table?color=blue&style=plastic" alt="License: MIT" /></a></p></sup>
+<img src="https://img.shields.io/github/languages/top/openinf/util-md-table?color=blue&style=plastic" />
+<a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/github/license/openinf/util-md-table?color=blue&style=plastic" alt="License: MIT" /></a></p></sup>
 
 <h1 align="center">@openinf/util-md-table</h1>
-
-
 
 <h3 align="center">Common Markdown table-related utilities</h3>
 
