@@ -4,8 +4,8 @@
   "description": "Common Markdown table-related utilities",
   "packageManager": "npm",
   "engines": {
-    "node": "^16.13.0",
-    "npm": "^8.1.0",
+    "node": "16.17.0",
+    "npm": "8.18.0",
     "npx": "^8.1.0"
   },
   "main": "./index.js",
