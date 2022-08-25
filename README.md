@@ -1,6 +1,10 @@
-<sup><p align="right"><a href="https://www.npmjs.com/package/@openinf/util-md-table"><img src="https://img.shields.io/npm/v/@openinf/util-md-table?style=plastic" alt="view on npm" /></a>
+div align="right">
+
+<a href="https://www.npmjs.com/package/@openinf/util-md-table#top"><img src="https://img.shields.io/npm/v/@openinf/util-md-table?style=plastic" alt="view on npm" /></a>
 <img src="https://img.shields.io/github/languages/top/openinf/util-md-table?color=blue&style=plastic" />
-<a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/github/license/openinf/util-md-table?color=blue&style=plastic" alt="License: MIT" /></a></p></sup>
+<a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/github/license/openinf/util-md-table?color=blue&style=plastic" alt="License: MIT" /></a>
+
+</div>
 
 <h1 align="center">@openinf/util-md-table</h1>
 
@@ -98,8 +102,6 @@ console.log(sampleTableObject);
 [conventional-commits-url]: https://www.conventionalcommits.org 'Commit Style: Conventional Commits'
 [prettier-badge]: https://img.shields.io/badge/code_style-Prettier-ff69b4.svg?style=plastic 'Code Style: Prettier'
 [prettier-url]: https://github.com/prettier/prettier 'Code Style: Prettier'
-
-
 
 <!-- PRESERVE LINK DEFINITION LABEL CASE - END -->
 <!-- prettier-ignore-end -->
