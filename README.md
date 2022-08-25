@@ -14,9 +14,9 @@ div align="right">
 
 _The high-level goal of `@openinf/util-md-table` is to serve as a Node.js
 package containing utilities for **common operations on Markdown tables**
-allowing users to make use of them in new ways. As is the case with any
-software project in continuous development, omissions and errors may exist, for
-which contributions are welcome._
+allowing users to make use of them in new ways. As is the case with any software
+project in continuous development, omissions and errors may exist, for which
+contributions are welcome._
 
 <br />
 
@@ -45,14 +45,14 @@ npm install @openinf/util-md-table
 ## Usage
 
 ```ts
-import { mdTable2json } from "@openinf/util-md-table";
+import { mdTable2json } from '@openinf/util-md-table';
 
 const sampleTable = [
-  "| Col1  | Col2  | Col3  | Col4  |",
-  "|:-----:|:-----:|:-----:|:-----:|",
-  "| one   | two   | three | four  |",
-  "| Fee   | Fie   | Foe   | Fum   |",
-].join("\n");
+  '| Col1  | Col2  | Col3  | Col4  |',
+  '|:-----:|:-----:|:-----:|:-----:|',
+  '| one   | two   | three | four  |',
+  '| Fee   | Fie   | Foe   | Fum   |',
+].join('\n');
 
 const sampleTableObject = mdTbl2json(sampleTable, (v) => v.toLowerCase());
 
