@@ -26,7 +26,7 @@ module.exports = {
       },
     },
     {
-      files: ['*.md'],
+      files: ['README.hbs', '*.md'],
       options: {
         parser: 'markdown',
         proseWrap: 'always',
