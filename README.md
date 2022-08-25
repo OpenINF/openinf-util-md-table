@@ -1,4 +1,4 @@
-div align="right">
+<div align="right">
 
 <a href="https://www.npmjs.com/package/@openinf/util-md-table#top"><img src="https://img.shields.io/npm/v/@openinf/util-md-table?style=plastic" alt="view on npm" /></a>
 <img src="https://img.shields.io/github/languages/top/openinf/util-md-table?color=blue&style=plastic" />
