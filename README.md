@@ -101,7 +101,8 @@ console.log(sampleTableObject);
 
 <!-- Give a ⭐️ if this project helped you! -->
 
-If you like the project, [give it a star ⭐️], it will be a great encouragement to us.
+If you like the project, [give it a star ⭐️], it will be a great encouragement
+to us.
 
 <br /><br />
 
