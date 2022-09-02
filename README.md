@@ -89,13 +89,21 @@ console.log(sampleTableObject);
 | cellTransform       | <code>function</code> \| <code>undefined</code> | A function run on contents of each cell. |
 | attribCellTransform | <code>function</code> \| <code>undefined</code> | A transform only for attribute cells.    |
 
-<br />
+<br /><br />
 
 ---
 
 <br />
 
 <div align="center">
+
+## Show Your Support
+
+<!-- Give a ⭐️ if this project helped you! -->
+
+If you like the project, [give it a star ⭐️], it will be a great encouragement to us.
+
+<br /><br />
 
 &copy; The OpenINF Authors
 
@@ -109,6 +117,8 @@ console.log(sampleTableObject);
 
 <!-- prettier-ignore-start -->
 <!-- PRESERVE LINK DEFINITION LABEL CASE - START -->
+
+[give it a star ⭐️]: https://github.com/openinf/util-md-table/stargazers
 
 [deepscan-badge]: https://badgen.net/deepscan/grade/team/18447/project/21801/branch/634012?icon=deepscan
 [deepscan-url]: https://deepscan.io/dashboard#view=project&tid=18447&pid=21801&bid=634012
