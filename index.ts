@@ -12,7 +12,7 @@ export function mdTbl2json(
   attribCellTransform: Function | undefined
 ): any[] {
   const allRows = mdTbl
-    .split("\n")
+    .split('\n')
     .map((row) => row.trim())
     .filter((row) => row && row.length);
 
@@ -23,7 +23,7 @@ export function mdTbl2json(
     if (index === 0) {
       // These become the keys in each object of the array of objects.
       const cells = row
-        .split("|")
+        .split('|')
         .map((hd) => hd.trim())
         .filter((hd) => hd && hd.length);
 
@@ -33,7 +33,7 @@ export function mdTbl2json(
       });
     } else if (index > 1) {
       let cells = row
-        .split("|")
+        .split('|')
         .map((hd) => hd.trim())
         .filter((hd) => hd && hd.length);
 
