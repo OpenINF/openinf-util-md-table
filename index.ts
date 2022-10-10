@@ -37,9 +37,7 @@ export function mdTbl2json(
         .map((hd) => hd.trim())
         .filter((hd) => hd && hd.length);
 
-      cells = cells.map((value: string) => {
-        return cellTransform ? cellTransform(value) : value;
-      });
+      cells = cells.map((value: string) => (cellTransform ? cellTransform(value) : value));
 
       const cellsMap = new Map();
 
