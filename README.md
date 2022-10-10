@@ -41,10 +41,14 @@ contributions are welcome._
 
 ## Installation
 
-`@openinf/util-md-table` runs on Node.js and is available via `npm`.
+`@openinf/util-md-table` runs on Node.js and is available via `npm` and `yarn`.
 
 ```shell
 npm install @openinf/util-md-table
+```
+or
+```shell
+yarn add @openinf/util-md-table
 ```
 
 ## Usage
