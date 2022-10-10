@@ -32,9 +32,9 @@ function mdTbl2json(mdTbl, cellTransform, attribCellTransform) {
                 .split('|')
                 .map((hd) => hd.trim())
                 .filter((hd) => hd && hd.length);
-            cells = cells.map((value) => {
-                return cellTransform ? cellTransform(value) : value;
-            });
+            cells = cells.map((value) => (
+                cellTransform ? cellTransform(value) : value
+            ));
             const cellsMap = new Map();
             allAttributes.forEach((value, index) => {
                 cellsMap.set(value, cells[index]);
