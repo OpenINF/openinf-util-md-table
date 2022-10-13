@@ -56,7 +56,7 @@ yarn add @openinf/util-md-table
 ## Usage
 
 ```ts
-import { mdTable2json } from '@openinf/util-md-table';
+import { mdTbl2json } from '@openinf/util-md-table';
 
 const sampleTable = [
   '| Col1  | Col2  | Col3  | Col4  |',
@@ -65,9 +65,9 @@ const sampleTable = [
   '| Fee   | Fie   | Foe   | Fum   |',
 ].join('\n');
 
-const sampleTableObject = mdTbl2json(sampleTable, (v) => v.toLowerCase());
+const sampleTblObject = mdTbl2json(sampleTable, (v) => v.toLowerCase());
 
-console.log(sampleTableObject);
+console.log(sampleTblObject);
 ```
 
 ```console
