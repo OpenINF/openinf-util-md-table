@@ -17,12 +17,7 @@
     "test": "node index.spec.js"
   },
   "repository": "openinf/util-md-table",
-  "keywords": [
-    "markdown",
-    "json",
-    "table",
-    "utilities"
-  ],
+ "keywords": ["markdown", "json", "table", "utilities"],
   "author": "The OpenINF Authors",
   "license": "MIT",
   "bugs": "https://github.com/openinf/util-md-table/issues",
