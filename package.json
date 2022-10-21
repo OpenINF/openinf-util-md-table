@@ -13,7 +13,7 @@
   "scripts": {
     "prepare": "npm run compile-src && npm run compile-doc",
     "compile-src": "tsc --project ./",
-    "compile-doc": "jsdoc2md --template README.hbs --files index.js > ./README.md",
+    "compile-doc": "",
     "test": "node index.spec.js"
   },
   "repository": "openinf/util-md-table",
@@ -24,7 +24,6 @@
   "homepage": "https://github.com/openinf/util-md-table#readme",
   "devDependencies": {
     "@types/node": "18.11.3",
-    "jsdoc-to-markdown": "7.1.1",
     "typescript": "4.8.4"
   }
 }
