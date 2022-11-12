@@ -26,9 +26,9 @@ contributions are welcome._
 
 **Supported Versions of Node.js**
 
-- [ ]  v4：Argon (Ar)
-- [ ]  v6：Boron (B)
-- [ ]  v8：Carbon (C)
+- [ ] v4：Argon (Ar)
+- [ ] v6：Boron (B)
+- [ ] v8：Carbon (C)
 - [ ] v10：Dubnium (Db)
 - [ ] v12：Erbium (Er)
 - [x] v14：Fermium (Fm)
