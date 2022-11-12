@@ -61,8 +61,9 @@ via **`npm`**, **`pnpm`**, or **`yarn`**.
 
 ### Install Using the npm CLI
 
-<small>See the [official documentation for this command][https://docs.npmjs.com/cli/commands/npm-install] for more information.</small>
-
+<small>See the [official documentation for this
+command][https://docs.npmjs.com/cli/commands/npm-install] for more
+information.</small>
 
 ```shell
 npm install @openinf/util-md-table
