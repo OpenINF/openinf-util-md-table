@@ -24,6 +24,19 @@ contributions are welcome._
 
 <br />
 
+**Supported Versions of Node.js**
+
+- [ ]  v4：Argon (Ar)
+- [ ]  v6：Boron (B)
+- [ ]  v8：Carbon (C)
+- [ ] v10：Dubnium (Db)
+- [ ] v12：Erbium (Er)
+- [x] v14：Fermium (Fm)
+- [x] v16：Gallium (Ga)
+<!-- WIP - [x] v18：Hydrogen (H) -->
+
+<br />
+
 <div align="center">
 
 [![Code Style: Prettier][prettier-badge]][prettier-url]
