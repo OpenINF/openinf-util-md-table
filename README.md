@@ -61,9 +61,9 @@ via **`npm`**, **`pnpm`**, or **`yarn`**.
 
 **Using the npm CLI**
 
-<small>See the [official documentation for this
-command](https://docs.npmjs.com/cli/commands/npm-install) for more
-information.</small>
+<small>See the
+[official documentation for this command](https://docs.npmjs.com/cli/commands/npm-install)
+for more information.</small>
 
 ```shell
 npm i @openinf/util-md-table
@@ -71,8 +71,8 @@ npm i @openinf/util-md-table
 
 **Using the pnpm CLI**
 
-<small>See the [official documentation for this
-command](https://pnpm.io/cli/install) for more
+<small>See the
+[official documentation for this command](https://pnpm.io/cli/install) for more
 information.</small>
 
 ```shell
@@ -81,9 +81,9 @@ pnpm i @openinf/util-md-table
 
 **Using the Yarn 1 CLI (Classic)**
 
-<small>See the [official documentation for this
-command](https://classic.yarnpkg.com/en/docs/cli/add) for more
-information.</small>
+<small>See the
+[official documentation for this command](https://classic.yarnpkg.com/en/docs/cli/add)
+for more information.</small>
 
 ```shell
 yarn add @openinf/util-md-table
