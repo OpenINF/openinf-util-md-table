@@ -33,7 +33,7 @@ contributions are welcome._
 - [ ] v12：Erbium (Er)
 - [x] v14：Fermium (Fm)
 - [x] v16：Gallium (Ga)
-<!-- FIXME
+<!-- TODO
 - [ ] v18：Hydrogen (H)
 - [x] v20: Iron (Fe) -->
 
