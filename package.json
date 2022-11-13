@@ -4,9 +4,9 @@
   "description": "Common Markdown table-related utilities",
   "packageManager": "npm",
   "engines": {
-    "node": "^16.13.0",
+    "node": "^14.17.0 || ^16.13.0 || ^18.12.0",
     "npm": "^8.1.0 || ^9.0.0",
-    "npx": "^8.1.0"
+    "npx": "^8.1.0 || ^9.0.0"
   },
   "main": "./index.js",
   "types": "./index.d.ts",
