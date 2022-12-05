@@ -6,7 +6,7 @@
     ":preserveSemverRanges",
     "github>whitesource/merge-confidence:beta"
   ],
-  "lockFileMaintenance": { "enabled": true },
+  "lockFileMaintenance": { "enabled": false },
   "postUpdateOptions": ["npmDedupe"],
   "platformCommit": true,
   "rangeStrategy": "pin",
