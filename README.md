@@ -24,7 +24,18 @@ contributions are welcome._
 
 <br />
 
-**Supported Versions of Node.js**
+<details>
+  <summary>
+    <button alt="Platform: Node.js LTS">
+      <a href="#">
+        <img src="https://img.shields.io/badge/Node.js-LTS-black?logo=Node.js&logoColor=lightgreen&color=2a2a2a&labelColor=black" alt="Platform: Node.js LTS" />
+      </a>
+    </button>
+  </summary>
+  <div align="left"><br />
+    <a href="https://github.com/nodejs/release#release-schedule" alt="Node.js release schedule">
+      <strong>Supported Node.js Environments</strong>
+    </a><br /><br />
 
 - [ ] v4：Argon (Ar)
 - [ ] v6：Boron (B)
@@ -36,6 +47,9 @@ contributions are welcome._
 <!-- TODO
 - [ ] v18：Hydrogen (H)
 - [x] v20: Iron (Fe) -->
+
+  <br /></div>
+</details>
 
 <br />
 
