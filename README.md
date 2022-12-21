@@ -26,8 +26,8 @@ contributions are welcome._
 
 <details>
   <summary>
-    <button alt="Platform: Node.js LTS">
-      <a href="#">
+    <button id="platform--node-js-lts">
+      <a href="#platform--node-js-lts" title="Platform: Node.js LTS">
         <img src="https://img.shields.io/badge/Node.js-LTS-black?logo=Node.js&logoColor=lightgreen&color=2a2a2a&labelColor=black" alt="Platform: Node.js LTS" />
       </a>
     </button>
