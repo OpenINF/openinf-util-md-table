@@ -24,13 +24,11 @@ contributions are welcome._
 
 <br />
 
-<details>
+<details id="platform--node-js-lts">
   <summary>
-    <button id="platform--node-js-lts">
-      <a href="#platform--node-js-lts" title="Platform: Node.js LTS">
-        <img src="https://img.shields.io/badge/Node.js-LTS-black?logo=Node.js&logoColor=lightgreen&color=2a2a2a&labelColor=black" alt="Platform: Node.js LTS" />
-      </a>
-    </button>
+    <a href="#platform--node-js-lts" title="Platform: Node.js LTS">
+      <img src="https://img.shields.io/badge/Node.js-LTS-black?logo=Node.js&logoColor=lightgreen&color=2a2a2a&labelColor=black" alt="Platform: Node.js LTS" />
+    </a>
   </summary>
   <div align="left"><br />
     <a href="https://github.com/nodejs/release#release-schedule" alt="Node.js release schedule">
