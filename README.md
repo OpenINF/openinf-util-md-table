@@ -31,7 +31,7 @@ contributions are welcome._
     </a>
   </summary>
   <div align="left"><br />
-    <a href="https://github.com/nodejs/release#release-schedule" alt="Node.js release schedule">
+    <a target="none" title="Node.js release schedule" href="https://github.com/nodejs/release#release-schedule">
       <strong>Supported Node.js Environments</strong>
     </a><br /><br />
 
