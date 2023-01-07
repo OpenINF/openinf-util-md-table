@@ -56,8 +56,7 @@ contributions are welcome._
 <!-- TODO
 - [x] v20: Iron (Fe) -->
 
-	</div>
-</details>
+</div></details>
 
 <br />
 
