@@ -25,15 +25,25 @@ contributions are welcome._
 <br />
 
 <details id="platform--node-js-lts">
-  <summary>
-    <a href="#platform--node-js-lts" title="Platform: Node.js LTS">
-      <img src="https://img.shields.io/badge/Node.js-LTS-black?logo=Node.js&logoColor=lightgreen&color=2a2a2a&labelColor=black" alt="Platform: Node.js LTS" />
-    </a>
-  </summary>
-  <div align="left"><br />
-    <a target="none" title="Node.js release schedule" href="https://github.com/nodejs/release#release-schedule">
-      <strong>Supported Node.js Environments</strong>
-    </a><br /><br />
+	<summary>
+		<a
+			href="#platform--node-js-lts"
+			title="Platform: Node.js LTS"
+		>
+			<img
+				src="https://img.shields.io/badge/Node.js-LTS-black?logo=Node.js&logoColor=lightgreen&color=2a2a2a&labelColor=black"
+				alt="Platform: Node.js LTS"
+			/>
+		</a>
+	</summary>
+	<div align="left"><br />
+		<a
+			target="_blank"
+			title="Node.js release schedule"
+			href="https://github.com/nodejs/release#release-schedule"
+		>
+			<strong>Supported Node.js Environments</strong>
+		</a><br /><br />
 
 - [ ] v4：Argon (Ar)
 - [ ] v6：Boron (B)
@@ -42,11 +52,11 @@ contributions are welcome._
 - [ ] v12：Erbium (Er)
 - [x] v14：Fermium (Fm)
 - [x] v16：Gallium (Ga)
+- [x] v18：Hydrogen (H)
 <!-- TODO
-- [ ] v18：Hydrogen (H)
 - [x] v20: Iron (Fe) -->
 
-  <br /></div>
+	<br /></div>
 </details>
 
 <br />
