@@ -77,8 +77,9 @@ contributions are welcome._
 
 ## Installation
 
-`@openinf/util-md-table` runs on supported versions of Node.js and is available
-via **`npm`**, **`pnpm`**, or **`yarn`**.
+`@openinf/util-md-table` runs on
+[supported versions of Node.js](#platform--node-js-lts) and is available via
+**`npm`**, **`pnpm`**, or **`yarn`**.
 
 **Using the npm CLI**
 
