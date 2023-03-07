@@ -96,7 +96,7 @@ npm i @openinf/util-md-table
 information.</sup>
 
 ```shell
-pnpm i @openinf/util-md-table
+pnpm add @openinf/util-md-table
 ```
 
 **Using the Yarn 1 CLI (Classic)**
