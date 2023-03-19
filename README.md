@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# @openinf/util-md-table
+## @openinf/util-md-table
 
 Common Markdown table-related utilities
 
@@ -73,7 +73,7 @@ contributions are welcome._
 
 <br />
 
-## Installation
+### Installation
 
 `@openinf/util-md-table` runs on
 [supported versions of Node.js](#platform--node-js-lts) and is available via
@@ -109,7 +109,7 @@ for more information.</sup>
 yarn add @openinf/util-md-table
 ```
 
-## Usage
+### Usage
 
 ```ts
 import { mdTbl2json } from '@openinf/util-md-table';
@@ -159,7 +159,7 @@ console.log(sampleTblObject);
 
 <div align="center">
 
-## Show Your Support
+### Show Your Support
 
 <!-- Give a ⭐️ if this project helped you! -->
 
