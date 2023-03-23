@@ -23,7 +23,7 @@
   "bugs": "https://github.com/openinf/util-md-table/issues",
   "homepage": "https://github.com/openinf/util-md-table#readme",
   "devDependencies": {
-    "@types/node": "18.14.2",
+    "@types/node": "18.14.4",
     "typescript": "4.9.5"
   }
 }
