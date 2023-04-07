@@ -24,6 +24,6 @@
   "homepage": "https://github.com/openinf/util-md-table#readme",
   "devDependencies": {
     "@types/node": "18.15.8",
-    "typescript": "5.0.2"
+    "typescript": "5.0.4"
   }
 }
