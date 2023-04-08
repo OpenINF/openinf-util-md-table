@@ -19,7 +19,7 @@ _The high-level goal of `@openinf/util-md-table` is to serve as a Node.js
 package containing utilities for **common operations on Markdown tables**
 allowing users to make use of them in new ways. As is the case with any software
 project in continuous development, omissions and errors may exist, for which
-contributions are welcome._
+[contributions are welcome](#contributing)._
 
 <br />
 
