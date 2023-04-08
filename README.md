@@ -67,7 +67,21 @@ contributions are welcome._
 
 </div>
 
+<br /><br />
+
+---
+
 <br />
+
+### Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [API](#api)
+- [Contributing](#contributing)
+- [License](#license)
+
+<br /><br />
 
 ---
 
@@ -109,6 +123,8 @@ for more information.</sup>
 yarn add @openinf/util-md-table
 ```
 
+<br /><br />
+
 ### Usage
 
 ```ts
@@ -133,11 +149,9 @@ console.log(sampleTblObject);
 ]
 ```
 
-<br />
+<br /><br />
 
----
-
-<br />
+### API
 
 <a name="mdTbl2json"></a>
 
