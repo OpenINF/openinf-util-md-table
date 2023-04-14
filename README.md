@@ -155,7 +155,7 @@ console.log(sampleTblObject);
 
 <a name="mdTbl2json"></a>
 
-## mdTbl2json(mdTbl, cellTransform, attribCellTransform) ⇒ <code>Array.&lt;Object&gt;</code>
+#### mdTbl2json(mdTbl, cellTransform, attribCellTransform) ⇒ <code>Array.&lt;Object&gt;</code>
 
 **Kind**: global function
 
