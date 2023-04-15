@@ -1,27 +1,26 @@
 {
   "name": "@openinf/util-md-table",
-  "version": "1.1.3",
+  "version": "0.0.0-development",
   "description": "Common Markdown table-related utilities",
-  "packageManager": "npm",
+  "packageManager": "pnpm@8.2.0",
   "engines": {
-    "node": "^14.15.0 || ^16.13.0 || ^18.12.0",
-    "npm": "^6.14.8 || ^8.1.0 || ^8.19.2 || ^9.0.0",
-    "npx": "^6.14.8 || ^8.1.0 || ^8.19.2 || ^9.0.0"
+    "node": "^16.13.0"
   },
-  "main": "./index.js",
-  "types": "./index.d.ts",
+  "keywords": ["markdown", "json", "table", "utilities"],
+  "repository": "OpenINF/openinf-util-md-table",
+  "license": "MIT OR Apache-2.0",
+  "author": "The OpenINF Authors",
+  "directories": {
+    "lib": "lib",
+    "doc": "doc",
+    "test": "test"
+  },
   "scripts": {
     "prepare": "npm run compile-src && npm run compile-doc",
     "compile-src": "tsc --project ./",
     "compile-doc": "",
     "test": "node index.spec.js"
   },
-  "repository": "openinf/util-md-table",
-  "keywords": ["markdown", "json", "table", "utilities"],
-  "author": "The OpenINF Authors",
-  "license": "MIT",
-  "bugs": "https://github.com/openinf/util-md-table/issues",
-  "homepage": "https://github.com/openinf/util-md-table#readme",
   "devDependencies": {
     "@types/node": "18.15.11",
     "typescript": "5.0.4"
