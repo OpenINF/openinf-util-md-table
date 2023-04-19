@@ -2,7 +2,7 @@
   "name": "@openinf/util-md-table",
   "version": "0.0.0-development",
   "description": "Common Markdown table-related utilities",
-  "packageManager": "pnpm@8.3.0",
+  "packageManager": "pnpm@8.3.1",
   "engines": {
     "node": "^16.13.0"
   },
