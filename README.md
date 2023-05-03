@@ -10,6 +10,7 @@ Common Markdown table-related utilities
 
 [!['View on npm'][npm-badge--shields]][npm-badge-url]
 [!['License: MIT/Apache-2.0'][license-badge--shields]][license-badge-url]
+!['Project Status: Under construction'][project-status-badge]
 
 </div>
 
@@ -232,5 +233,6 @@ us.
 [open an issue]: https://github.com/OpenINF/openinf-util-md-table/issues
 [prettier-badge]: https://img.shields.io/badge/code_style-Prettier-ff69b4.svg?logo=prettier 'Code Style: Prettier'
 [prettier-url]: https://prettier.io/playground 'Code Style: Prettier'
+[project-status-badge]: https://img.shields.io/badge/project%20status-under%20construction-orange 'Project Status: Under construction badge'
 [release-level-banner--unstable]: https://raw.githubusercontent.com/OpenINF/openinf.github.io/live/assets/img/svg/release-level-banner--unstable.svg?sanitize=true 'Banner for Release Level: Unstable'
 <!-- END LINK DEFINITIONS -->
