@@ -163,7 +163,7 @@ console.log(sampleTblObject);
 
 This API will be deprecated in the next release in favor of one that follows [Web Platform Design Principles](https://github.com/OpenINF/openinf-util-md-table/issues/187).
 
-#### mdTbl2json(mdTbl, cellTransform, attribCellTransform) ⇒ <code>Array.&lt;Object&gt;</code>
+#### mdTbl2json(mdTbl, cellTransform, attribCellTransform) ⇒ <code>Array&lt;Object&gt;</code>
 
 **Kind**: global function
 
