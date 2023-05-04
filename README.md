@@ -156,6 +156,13 @@ console.log(sampleTblObject);
 
 <a name="mdTbl2json"></a>
 
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/light-theme/tip.svg">
+  <img alt="Tip" src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/tip.svg">
+</picture><br>
+
+This API will be deprecated in the next release in favor of one that follows [Web Platform Design Principles](https://github.com/OpenINF/openinf-util-md-table/issues/187).
+
 #### mdTbl2json(mdTbl, cellTransform, attribCellTransform) ⇒ <code>Array.&lt;Object&gt;</code>
 
 **Kind**: global function
