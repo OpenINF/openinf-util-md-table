@@ -1,5 +1,3 @@
-// Copyright 2021 The OpenINF Authors. All rights reserved. MIT license.
-
 /**
  * @param {string} mdTbl A markdown table as a string.
  * @param {!(Function | undefined)} cellTransform A function run on contents of each cell.
