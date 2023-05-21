@@ -1,29 +1,30 @@
 [![Orange banner indicating a preview software component][release-level-banner--unstable]](##)
 
+<br />
+
 <!-- markdownlint-disable-next-line line-length -->
 <a href="##"><img src="https://raw.githubusercontent.com/OpenINF/openinf.github.io/live/assets/img/svg/logogram-color.svg?sanitize=true" alt="OpenINF logo" title="OpenINF" align="right" height="96" width="96" /></a>
 
-<div align="center">
+<div align="left">
 
-## @openinf/util-md-table
+## `@openinf/util-md-table`
 
-Common Markdown table-related utilities
+> Common Markdown table-related utilities
 
 <br />
 
 [!['View on npm'][npm-badge--shields]][npm-badge-url]
 [!['License: MIT/Apache-2.0'][license-badge--shields]][license-badge-url]
-!['Project Status: Under construction'][project-status-badge]
 
 </div>
 
 <br />
 
-_The high-level goal of `@openinf/util-md-table` is to serve as a Node.js
+The high-level goal of `@openinf/util-md-table` is to serve as a Node.js
 package containing utilities for **common operations on Markdown tables**
 allowing users to make use of them in new ways. As is the case with any software
 project in continuous development, omissions and errors may exist, for which
-[contributions are welcome](#contributing)._
+[contributions are welcome](#contributing).
 
 <br />
 
