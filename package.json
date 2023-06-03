@@ -22,7 +22,7 @@
     "test": "node index.spec.js"
   },
   "devDependencies": {
-    "@types/node": "20.1.3",
+    "@types/node": "20.x.x",
     "typescript": "5.1.3"
   }
 }
