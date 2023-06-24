@@ -1,9 +1,10 @@
 {
-  "name": "@openinf/util-md-table",
+  "name": "@openinf-internal/util-md-table-monorepo",
+  "private": true,
   "version": "0.0.0-development",
-  "description": "Common Markdown table-related utilities",
+  "description": "Package-based monorepo for @openinf/util-md-table and friends",
+  "workspaces": ["packages/*"],
   "packageManager": "pnpm@8.6.3",
-  "repository": "OpenINF/openinf-util-md-table",
   "license": "MIT OR Apache-2.0",
   "author": "The OpenINF Authors",
   "devDependencies": {
