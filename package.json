@@ -6,11 +6,6 @@
   "repository": "OpenINF/openinf-util-md-table",
   "license": "MIT OR Apache-2.0",
   "author": "The OpenINF Authors",
-  "directories": {
-    "lib": "lib",
-    "doc": "doc",
-    "test": "test"
-  },
   "devDependencies": {
     "@types/node": "20.x.x",
     "typescript": "5.1.3"
